@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1350
     wikipedia: http://en.wikipedia.org/wiki/Hector_Malot
 description: 'Translation of: Sans Famille'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19054#Alleen-op-de-Wereld
 gutenberg_issued: '2006-08-15'
 gutenberg_type: Text
 identifiers:
