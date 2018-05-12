@@ -1,0 +1,39 @@
+_repo: Alleen-op-de-Wereld_19054
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Keller, Gerard
+    birthdate: 1829
+    deathdate: 1899
+    gutenberg_agent_id: '8435'
+    url: http://www.gutenberg.org/2009/agents/8435
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Malot, Hector
+    alias: Malot, Hector-Henri
+    birthdate: 1830
+    deathdate: 1907
+    gutenberg_agent_id: '1350'
+    url: http://www.gutenberg.org/2009/agents/1350
+    wikipedia: http://en.wikipedia.org/wiki/Hector_Malot
+description: 'Translation of: Sans Famille'
+gutenberg_issued: '2006-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19054'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- 19th century -- Fiction'
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Orphans -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Street entertainers -- Fiction'
+title: Alleen op de Wereld
+url: http://www.gutenberg.org/ebooks/19054
